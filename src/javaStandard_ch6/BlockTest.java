@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class BlockTest {
     static { //클래스 초기화 블럭
         System.out.println("static { }");

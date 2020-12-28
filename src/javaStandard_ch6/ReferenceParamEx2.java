@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class ReferenceParamEx2 {
     public static void main(String[] args) {
         int[] x = {10}; //크기가 1인 배열. x[0] = 10;

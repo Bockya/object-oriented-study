@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class ReturnTest {
     public static void main(String[] args) {
         ReturnTest r = new ReturnTest();

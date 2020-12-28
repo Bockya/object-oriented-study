@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class CallStackTest2 {
     public static void main(String[] args) {
         System.out.println("main(String[] args)이 시작됨");

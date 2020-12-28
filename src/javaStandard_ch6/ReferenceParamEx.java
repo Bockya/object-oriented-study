@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class ReferenceParamEx {
     public static void main(String[] args) {
         Data d = new Data();

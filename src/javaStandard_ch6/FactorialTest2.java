@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class FactorialTest2 {
     public static void main(String[] args) {
         int n = 21;

@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class TvTest3 {
     public static void main(String[] args) {
         Tv t1 = new Tv();

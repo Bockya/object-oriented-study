@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class Document {
     static int count = 0;
     String name; //문서명(Document name)

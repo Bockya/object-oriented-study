@@ -1,3 +1,5 @@
+package javaStandard_ch6;
+
 class StaticBlockTest {
     static int[] arr = new int[10];
 
